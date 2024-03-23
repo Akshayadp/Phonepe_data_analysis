@@ -11,16 +11,6 @@ Retrieve data from the Phonepe Pulse GitHub repository, perform data transformat
 4. Github Cloning
 5. Geo Visualisation
 
-**Import Libraries:**
-import os
-import json
-import pandas as pd
-import mysql.connector
-import streamlit as st
-from streamlit_option_menu import option_menu
-import plotly.express as px
-import requests
-import json
 
 **Features**
 
